@@ -25,7 +25,8 @@ const Template = () => {
                     <br />
                     <br />
                     <div className="footer">
-                        <h6 style={{ textAlign: 'center' }}>Designed by Blyncnov</h6>
+                        <h6 style={{ textAlign: 'center' }}>Designed by <a style={{ color: "black ", textDecoration: "underline" }} href="https://blyncnov.com">Blyncnov</a></h6>
+                        <br />
                         <br />
                     </div>
                     <br />
