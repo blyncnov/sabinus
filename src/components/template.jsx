@@ -10,12 +10,14 @@ const Template = () => {
                         <img src={Picture} alt="sabinus" />
                     </div>
                     <div className="text__container">
-                        <h1 style={{ textAlign: 'center' }}>404 </h1>
+                        <h1 style={{ textAlign: 'center' }}>70yrs Old Man </h1>
                         <br />
-                        <p style={{ textAlign: 'center' }}> Something Hooge is coming lorem ipsum dolor sit amet, consect ipsum dolor sit amet, consect</p>
+                        <p style={{ textAlign: 'center' }}>Bros ..... Good Afternoon oh, how is the family?  <br />
+                            Happy Birthday MrFunny , Age with sufficient grace .
+                        </p>
                     </div>
                     <div className="btn__style">
-                        <button className="btn" style={{ textAlign: 'center' }}>Go Home</button>
+                        <button className="btn" style={{ textAlign: 'center' }}>Get Something Hooge</button>
                     </div>
                     <br />
                     <br />
